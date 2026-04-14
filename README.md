@@ -1,6 +1,6 @@
  Hi there 👋
 
-I’m currently working on Machine Learning and learning as a computer engineer
+I’m currently working and learning as a computer engineer
 
 I’m looking to collaborate on different projects
 
